@@ -14,7 +14,7 @@
 
  Ini adalah flowchart-nya
 
- ![gambar 1](SS3.JPG)
+ ![gambar 1](SS3.jpg)
 
  ### Membuat flowchart menggunakan pyhton
  1. "max_numer" diinisialisasi dengan nilai 0 menggunakan int"(0)".
@@ -26,7 +26,7 @@
  7. lalu kembali ke no3
 
  Ini adalah flowchart menggunakan pyhton
- ![gambar 2](SS2.PNG)
+ ![gambar 2](SS2.png)
 
  Ini adalah gambar hasil dari pyhton yang sudah dimasukan bilangan
- ![gambar 3](SS1.PNG)
+ ![gambar 3](SS1.png)
